@@ -16,10 +16,10 @@
 1. Compile the program using a C++ compiler.
 2. Run the program and enter the name of the CSV file containing the tournament data when prompted.
 3. Use the interactive menu to select different types of analysis:
-* Display overall tournament information.
-* Show the winning team's path to the championship.
-* Predict the expected winning region for a specific round.
-* Identify the round's best underdog team.
-* Analyze the most and least competitive games.
-* Compare your bracket predictions to the actual tournament outcomes.
+   * Display overall tournament information.
+   * Show the winning team's path to the championship.
+   * Predict the expected winning region for a specific round.
+   * Identify the round's best underdog team.
+   * Analyze the most and least competitive games.
+   * Compare your bracket predictions to the actual tournament outcomes.
 4. Follow the on-screen prompts to input additional information as required for each analysis.
